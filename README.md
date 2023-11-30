@@ -2,6 +2,15 @@
 
 Esse desafio foi proposto a partir do repositório [Back-end Challenge](https://github.com/CollabCodeTech/backend-challenges)
 
+---
+
+### Versões
+
+    - Java 17
+    - Spring boot 3
+
+---
+
 Neste desafio da Ame Digital, temos que criar uma API que retorne para o front-end alguns dados de planetas. Esses dados são:
 
 - Nome
